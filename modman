@@ -1,3 +1,4 @@
-src/app/code/community/Canalweb/LimitCompare  app/code/community/Canalweb/LimitCompare 
-src/app/locale/  app/locale/ 
-src/app/etc/modules/Canalweb_LimitCompare.xml app/etc/modules/Canalweb_LimitCompare.xml
+src/app/code/community/Canalweb/LimitCompare   app/code/community/Canalweb/LimitCompare  
+src/app/etc/modules/Canalweb_LimitCompare.xml  app/etc/modules/Canalweb_LimitCompare.xml 
+src/app/locale/en_US/Canalweb_LimitCompare.csv app/locale/en_US/Canalweb_LimitCompare.csv
+src/app/locale/fr_FR/Canalweb_LimitCompare.csv app/locale/fr_FR/Canalweb_LimitCompare.csv
